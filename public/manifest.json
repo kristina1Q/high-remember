@@ -1,0 +1,17 @@
+{
+  "name": "忆词 HighRemember - 英语单词记忆",
+  "short_name": "忆词",
+  "description": "艾宾浩斯智能间隔记忆英语单词手机应用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

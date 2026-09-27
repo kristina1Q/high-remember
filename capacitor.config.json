@@ -1,0 +1,10 @@
+{
+  "appId": "com.highremember.wordapp",
+  "appName": "忆词 HighRemember",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
